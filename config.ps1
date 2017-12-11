@@ -1,0 +1,3 @@
+#テストで起動する前に制限がかかっているので
+#管理者で開いたターミナルでpowershellの実行許可を付けておく
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
